@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NecessaryInFo>
+<Account>
+      <Email>rifad@gmail.com</Email>
+      <password>rifad123@D</password>
+      <gender>male</gender>
+   </Account>
+<Account>
+      <FirstName>ZAmiuerere</FirstName>
+      <LastNames>Jewel</LastNames>
+      <Email>jeba@iit.du.ac.bd</Email>
+      <password>jewel123#S</password>
+      <gender>male</gender>
+   </Account>
+<Account>
+      <FirstName>Muhabbat</FirstName>
+      <LastNames>Sarker</LastNames>
+      <Email>ishan@gmail.co</Email>
+      <password>iit123@D</password>
+      <gender>male</gender>
+   </Account>
+</NecessaryInFo>

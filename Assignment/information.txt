@@ -1,0 +1,9 @@
+Muhabbat,Sarker,eshan@gmail.com,iit123@D,male,bd
+Muhabbat,Sarker,ishan@gmail.com,iit123@D,male,bd
+Jwelmia,HaasanAli,jewel@gmail.com,iit123@D,male,bd
+YeasinMia,Sarker,iit@gmail.com,iit123@D,male,bd
+Muhabbat,Sarker,eshan@gmail.com,iit123@D,male,bd
+MusaAlim,MoloyAlam,eshan@gmail.com,iit123@D,male,bd
+ZH Rifad,Hasan,rifad@gmail.com,rifad123@D,male,bd
+ZAmiuerere,Jewel,jeba@iit.du.ac.bd,jewel123#S,male,bd
+Muhabbat,Sarker,ishan@gmail.co,iit123@D,male,bd
